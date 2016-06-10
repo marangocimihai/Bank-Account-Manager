@@ -1,0 +1,6 @@
+Default images: 20 x 18 (the ones which contain the default user photos)
+
+Profile photo: 120 x 65 
+
+Main frame header: 480 x 160
+
